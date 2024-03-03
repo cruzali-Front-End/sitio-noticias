@@ -226,6 +226,7 @@ ul {
 
  .redes {
   margin: 50px;
+  
  }
 
  .redes p{
@@ -254,7 +255,8 @@ ul {
  /* LINKS FOOTER */
 
 .footer {
-  background-color: #1b1156;
+  background-color: #000000;
+  background: url(images/background-degraded1.jpg) no-repeat center center/cover;
   color: white;
   font-size: 14px;
   padding: 20px 0;
@@ -284,7 +286,8 @@ ul {
 
 
 .footer-copyright {
-  background-color: #1b1156;
+  background-color: #000000;
+  /* background: url(images/background-patron2.jpg) no-repeat center center/cover; */
   color: white;
   font-size: 14px;
   padding: 20px 0;
